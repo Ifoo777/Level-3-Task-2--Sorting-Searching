@@ -1,4 +1,4 @@
-# Level 3 Task 2 -Sorting & Searching
+# Level 3 Task 3 -Sorting & Searching
 
 ## Task 1
 
